@@ -1,7 +1,9 @@
 # Olá! Bem-vindo ao meu GitHub 👋
 
-Sou Mateus Braga, estudante de Engenharia de Software, com foco em automação
+Sou Mateus Braga, estudante de Engenharia de Software, com foco em automação,
 Cloud, Dados.
+
+Fundador da iconsDev.com.br
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=teubragaa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
