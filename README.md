@@ -10,10 +10,16 @@ Fundador da iconsDev.com.br
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teubragaa&layout=compact&theme=github_dark"/>
 </div>
 
-## Linguagens e tecnologias
+## Linguagens
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,docker,aws,git,linux" />
+</p>
+
+## tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
 </p>
 
 ## Versionamento e DevOps
