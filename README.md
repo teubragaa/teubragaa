@@ -13,7 +13,7 @@ Fundador da iconsDev.com.br
 ## Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,docker,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,postgres" />
 </p>
 
 ## tecnologias
