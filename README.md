@@ -16,13 +16,24 @@ Fundador da iconsDev.com.br
   <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,docker,aws,git,linux" />
 </p>
 
+## Versionamento e DevOps
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker" />
+  </a>
+  
 ## Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <a href="www.linkedin.com/in/mateus-braga-b869462b1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:SEUEMAIL@email.com">
+  <a href="mailto:eu.mateusbraga@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
