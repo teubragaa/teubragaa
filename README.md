@@ -35,6 +35,12 @@ Fundador da iconsDev.com.br
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker" />
   </a>
+
+## Ferramentas:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,idea" alt="VS Code, Postman e IntelliJ IDEA" />
+</p>
   
 ## Contato
 
