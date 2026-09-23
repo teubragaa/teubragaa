@@ -16,13 +16,13 @@ Fundador da iconsDev.com.br
   <img src="https://skillicons.dev/icons?i=python,java,spring,postgres" />
 </p>
 
-## tecnologias
+## Tecnologias
 
 <p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
-  </a>  
+  <a href="https://aws.amazon.com/pt/certification/certified-cloud-practitioner/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS Cloud Practitioner" />
+  </a>
+  <img src="https://skillicons.dev/icons?i=docker,linux" alt="Docker e Linux" />
 </p>
 
 ## Versionamento e DevOps
