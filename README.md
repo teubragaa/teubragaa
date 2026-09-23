@@ -19,6 +19,7 @@ Fundador da iconsDev.com.br
 ## tecnologias
 
 <p>
+  href="https://www.credly.com/badges/839bf7e3-ad1b-4d47-adba-a8cbe4d10b67)"
   <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
 </p>
 
