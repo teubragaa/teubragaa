@@ -19,8 +19,10 @@ Fundador da iconsDev.com.br
 ## tecnologias
 
 <p>
-  href="https://www.credly.com/badges/839bf7e3-ad1b-4d47-adba-a8cbe4d10b67)"
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" />
   <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
+  </a>  
 </p>
 
 ## Versionamento e DevOps
@@ -37,7 +39,6 @@ Fundador da iconsDev.com.br
 ## Contato
 
 <p>
-  <a href="www.linkedin.com/in/mateus-braga-b869462b1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:eu.mateusbraga@gmail.com">
