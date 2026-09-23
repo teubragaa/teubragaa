@@ -19,7 +19,7 @@ Fundador da iconsDev.com.br
 ## Tecnologias
 
 <p>
-  <a href="https://aws.amazon.com/pt/certification/certified-cloud-practitioner/" target="_blank">
+  <a href="https://www.credly.com/badges/839bf7e3-ad1b-4d47-adba-a8cbe4d10b67" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS Cloud Practitioner" />
   </a>
   <img src="https://skillicons.dev/icons?i=docker,linux" alt="Docker e Linux" />
