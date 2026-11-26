@@ -1,9 +1,13 @@
 # Olá! Bem-vindo ao meu GitHub 👋
 
 Sou Mateus Braga, estudante de Engenharia de Software, com foco em automação,
-Cloud, Dados.
+Cloud e dados e fundador da iconsDev.com.br
 
-Fundador da iconsDev.com.br
+Sou o desenvolvedor responsável pela frente de automação do Conselho Regional de Contabilidade da Bahia (CRC-BA). Mapeio processos e fluxos de trabalho, identifico gargalos e ineficiências e desenho soluções para otimizar as rotinas da instituição.
+
+Atuo em todo o ciclo das automações: do levantamento e desenvolvimento à implementação e ao monitoramento. Trabalho com Python, UiPath, low code (n8n, Power Automate) e plataformas de orquestração e agentes de IA.
+
+Também implementei o Grafana para dar visibilidade às automações, acompanhar sua execução e fortalecer a rastreabilidade e a observabilidade dos processos.
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=teubragaa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
