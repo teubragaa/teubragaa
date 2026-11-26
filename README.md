@@ -3,7 +3,7 @@
 Sou Mateus Braga, estudante de Engenharia de Software, com foco em automação,
 Cloud e dados e fundador da iconsDev.com.br
 
-Sou o desenvolvedor responsável pela frente de automação do Conselho Regional de Contabilidade da Bahia (CRC-BA). Mapeio processos e fluxos de trabalho, identifico gargalos e ineficiências e desenho soluções para otimizar as rotinas da instituição.
+Sou o desenvolvedor responsável pelas automações do Conselho Regional de Contabilidade da Bahia (CRC-BA). Mapeio processos e fluxos de trabalho, identifico gargalos e ineficiências e desenho soluções para otimizar as rotinas da instituição.
 
 Atuo em todo o ciclo das automações: do levantamento e desenvolvimento à implementação e ao monitoramento. Trabalho com Python, UiPath, low code (n8n, Power Automate) e plataformas de orquestração e agentes de IA.
 
